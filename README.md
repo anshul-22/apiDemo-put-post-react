@@ -1,4 +1,4 @@
-# React API Demo with Axios and MUI
+# React API Demo 
 
 This project demonstrates how to create a simple React application that interacts with a REST API using Axios and uses MUI for styling.
 
